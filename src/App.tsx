@@ -51,7 +51,7 @@ function App() {
                 Docs
                 <span className="absolute -bottom-1 left-0 w-0 h-0.5 bg-gradient-to-r from-cyan-400 to-blue-400 group-hover:w-full transition-all duration-300" />
               </a>
-              <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 px-5 py-2.5 bg-white/5 hover:bg-white/10 rounded-xl border border-white/10 hover:border-cyan-500/50 transition-all duration-300 group hover:scale-105 shadow-lg hover:shadow-cyan-500/20">
+              <a href="https://github.com/intelligent-ears/N3" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 px-5 py-2.5 bg-white/5 hover:bg-white/10 rounded-xl border border-white/10 hover:border-cyan-500/50 transition-all duration-300 group hover:scale-105 shadow-lg hover:shadow-cyan-500/20">
                 <Github className="w-4 h-4 group-hover:rotate-12 transition-transform duration-300" />
                 <span className="text-sm font-semibold">GitHub</span>
               </a>
@@ -541,7 +541,7 @@ n3 cve http://example.com --save report.json`}
                     <ArrowRight className="w-5 h-5 group-hover:translate-x-2 transition-transform duration-300" />
                   </div>
                 </a>
-                <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="w-full sm:w-auto flex items-center justify-center gap-3 px-10 py-5 bg-white/5 border border-white/10 rounded-xl font-bold text-lg hover:bg-white/10 hover:border-cyan-500/50 transition-all duration-300 hover:scale-105 shadow-lg hover:shadow-cyan-500/20">
+                <a href="https://github.com/intelligent-ears/N3" target="_blank" rel="noopener noreferrer" className="w-full sm:w-auto flex items-center justify-center gap-3 px-10 py-5 bg-white/5 border border-white/10 rounded-xl font-bold text-lg hover:bg-white/10 hover:border-cyan-500/50 transition-all duration-300 hover:scale-105 shadow-lg hover:shadow-cyan-500/20">
                   <Github className="w-5 h-5" />
                   View on GitHub
                 </a>
@@ -567,7 +567,7 @@ n3 cve http://example.com --save report.json`}
             <div className="flex items-center gap-8 text-sm text-slate-400 font-medium">
               <a href="#" className="hover:text-cyan-400 transition-colors duration-300">MIT License</a>
               <a href="#" className="hover:text-cyan-400 transition-colors duration-300">Documentation</a>
-              <a href="https://github.com" className="hover:text-cyan-400 transition-colors duration-300 flex items-center gap-2">
+              <a href="https://github.com/intelligent-ears/N3" className="hover:text-cyan-400 transition-colors duration-300 flex items-center gap-2">
                 <Github className="w-4 h-4" />
                 GitHub
               </a>
